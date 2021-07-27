@@ -5,7 +5,7 @@ In this project, supervised learning techniques and an analytical mind on data c
 
 Afterwards, the model i’ve selected is optimized and presented as solution to CharityML. Finally,the
 
-#Software Requirements
+**Software Requirements**
 - Python 
 - NumPy
 - Pandas
